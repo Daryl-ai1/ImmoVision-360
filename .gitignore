@@ -1,0 +1,5 @@
+data/raw/tabular/*.csv
+data/raw/texts/*.txt
+data/raw/images/*.jpg
+# Environnement virtuel
+myenv/
