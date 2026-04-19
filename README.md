@@ -146,3 +146,7 @@ Ces métriques permettent de mesurer la qualité et la complétude du Data Lake 
 
  Le fichier listings.csv contient 2 625 annonces dans le périmètre du quartier Élysée. Cependant, seulement 1 777 images ont pu être téléchargées. Cette déperdition s’explique par plusieurs raisons techniques : certains liens d’images présents dans le dataset sont expirés ou invalides (erreurs HTTP 404), certains serveurs bloquent les requêtes automatisées (anti-bot), et certaines requêtes ont échoué à cause de timeouts réseau ou d’erreurs serveurs (HTTP 500).
 Concernant les données textuelles, certaines annonces ne possèdent tout simplement aucun commentaire dans reviews.csv, ce qui explique l’absence de fichier texte pour ces annonces. Ces pertes sont normales dans un pipeline d’ingestion de données réelles et ont été prises en compte dans l’audit du Data Lake.
+
+
+
+ 

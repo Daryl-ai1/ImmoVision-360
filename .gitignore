@@ -1,5 +1,6 @@
 data/raw/tabular/*.csv
 data/raw/texts/*.txt
 data/raw/images/*.jpg
+.env
 # Environnement virtuel
 myenv/
